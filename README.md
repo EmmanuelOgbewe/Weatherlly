@@ -1,2 +1,2 @@
 # Weatherlly
-Weatherlly parses data from a weather databse in a JSON format and shows you your local weather results.
+Weatherlly parses data from a weather database in JSON format and shows you your local weather results.
